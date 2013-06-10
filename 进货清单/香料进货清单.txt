@@ -32,10 +32,11 @@
 	3). 天然冰片(龙脑香)    V   IN 160元 /kg    OUT 3元   /10g
 	4). 安息香              V   IN 200元 /kg    OUT 4元   /10g
 	5). 香柏木              V   IN 14元  /kg    OUT 0.5元 /10g        other
-	6). 檀香      other
-	7). 沉香      other
-	8). 龙涎香    other
-	9). 麝香      other
+	6). 绿檀      other
+	7). 檀香      other
+	8). 沉香      other
+	9). 龙涎香    other
+	10). 麝香     other
 
 	
 5.类四  单纯生活香料         
